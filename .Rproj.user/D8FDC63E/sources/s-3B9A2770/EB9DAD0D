@@ -1,24 +1,26 @@
 {
-    "id": "E4BF78C5",
+    "id": "EB9DAD0D",
     "path": "~/Documents/Projects/bookdown-demo/bookdown-book3/_output.yml",
     "project_path": "_output.yml",
     "type": "yaml",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1652335675461.0,
+    "created": 1652336473598.0,
     "source_on_save": false,
     "relative_order": 4,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "10,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1652335670,
+    "lastKnownWriteTime": 1652336299,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1652335670,
+    "last_content_update": 1652336299,
     "read_only": false,
     "read_only_alternatives": []
 }
